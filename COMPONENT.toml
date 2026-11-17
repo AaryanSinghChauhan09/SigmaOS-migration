@@ -3,7 +3,7 @@ name = "SigmaOS-migration"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "migration component"
+description = "System migration: import from other distros, data transfer, dual-boot setup"
 upstream = []
 
 [contract]
